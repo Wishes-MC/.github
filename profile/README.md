@@ -1,3 +1,5 @@
-# Rides go vroom
+<div align="center">
 
-We create rides in minecraft or something
+![Wishes Logo](/profile/logo.png "Wishes Logo")
+
+</div>
